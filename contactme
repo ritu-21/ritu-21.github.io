@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Conatct Details</title>
+</head>
+
+<body style="background-color: cornsilk;">
+    <h1>CONTACT DETAILS</h1>
+    <HR SIZE="3" NOSHADE>
+    <h3>Ritu Karnawat</h3>
+    <p>Email address: rjkarnawat21@gmail.com</p><br>
+    <p>Phone Number: XXXXXXXX90</p><br>
+    <p>Address: India</p><br>
+    <hr size="3" noshade>
+    <h3>Languages comfortable to communicate with</h3>
+    <ul>
+        <li>English</li>
+        <li>Hindi</li>
+        <li>Telegu</li>
+        <li>Marathi</li>
+        <li>Marwari</li>
+        <li>German</li>
+    </ul>
+    <hr size="3" noshade>
+</body>
+
+</html>

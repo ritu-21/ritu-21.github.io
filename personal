@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Ritu's personal site </title>
+</head>
+
+<body style="background-color: cornsilk;">
+    <center>
+        <h1>RESUME</h1>
+    </center>
+    <HR SIZE="3" NOSHADE>
+    <center>
+        <img src="/web development/mit.png" alt="Ritu">
+        <h1 style="float:center" ;>Ritu Karnawat </h1>
+        <p><em>Student at the <strong><a href="https://mitwpu.edu.in/">MIT WORLD PEACE UNIVERISTY</a></strong></em></p>
+        <em>
+        <P>Department: BTech.Computer Science</P>
+        <a href="web development/contact.html">CONTACT ME FOR MORE DETAILS</a>
+    </em>
+    </center>
+    <br>
+    <p>I am a student at the MIT World Peace University at Pune,India.I am currently pursuing BTech degree in computer science. I am currently in the 2nd year and will be graduating in 2023.My fields of interest are Programming, logical analysis. I love
+        to code in Java.I am learning how to develop and create websites and web applications.</p>
+    <hr size="3" noshade>
+    <h3>EDUCATION</h3>
+    <ul>
+        <li>Kalpa School,Hyderabad, India ICSE-X
+            <BR> 2017 <br> Percentage: 96.2%
+        </li>
+        <br>
+        <li>
+            P.Obul Reddy School, Hyderabad, India CBSE XIIth
+            <br> 2019 <br> Percentage: 95%
+        </li>
+        <br>
+        <li>
+            MITWPU, Pune, India BTech CS SY
+            <br> 2021 <br> CGPA: 9.56
+        </li>
+        <br>
+    </ul>
+    <hr size="3" noshade>
+    <h3>MY HOBBIES</h3>
+    <ol>
+        <li>Coding </li>
+        <li>Travelling</li>
+        <li>Cooking</li>
+        <li>Playing Musical Instruments like the keyboard</li>
+    </ol>
+    <hr size="3" noshade>
+</body>
+
+</html>
